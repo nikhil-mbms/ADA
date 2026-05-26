@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 int board[20], n;
 
 int isSafe(int row, int col) {
